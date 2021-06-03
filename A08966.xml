@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The legend of Sir Leonard Lack-wit sonne in law to Sir Gregory Nonesence, by the marriage of his wiues eldest daughter to Sir Simon Simple, translated out of all Christian languages into the Kentish tongue. By Martin Parker.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A08966</idno><idno type="EEBO-CITATION">99847140</idno>
+  <idno type="VID">12160</idno>
+  <idno type="EEBO-PROQUEST">2240941934</idno>
+  <idno type="STC">STC 19251</idno>
+  <idno type="STC">ESTC S111880</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99847140e"/>
+            <note>(EEBO-TCP ; phase 2, no. A08966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1579:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The legend of Sir Leonard Lack-wit sonne in law to Sir Gregory Nonesence, by the marriage of his wiues eldest daughter to Sir Simon Simple, translated out of all Christian languages into the Kentish tongue. By Martin Parker.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[36] p.   </extent>
+               <publicationStmt>
+                  <publisher>By E. P[urslowe] and are to be sold betweene Douer Cliffe, and Barwicke Bridge. An. 12000. Or else are to bee sold by Stephen Pemmell, at the blacke Bull neere the gate on London Bridge,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1633.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: A-B C⁴ (-A1, C4, blank?).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12160:1"/>
+            <p>THE LEGEND OF SIR <hi>LEONARD LACK-WIT,</hi> SONNE IN LAW TO SIR <hi>GREGORY NONESENCE,</hi> By the marriage of his wiues eldest daugh<g ref="char:EOLhyphen"/>ter to Sir Simon Simple, Translated out of all Christian Languages into the Kentish tongue.</p>
+            <p>
+               <hi>BY MARTIN PARKER.</hi>
+            </p>
+            <q>
+               <l>Falsis, myl, awyer andoreth, rowne,</l>
+               <l>Mis, vtes.</l>
+            </q>
+            <p>Printed at LONDON by <hi>E. P.</hi> and are to be sold betweene Douer Cliffe, and Barwicke Bridge. <hi>An.</hi> 12000.</p>
+            <p>
+               <hi>Or else are to bee sold by</hi> Stephen Pemmell, <hi>at the blacke Bull neere the gate on London Bridge.</hi> 1633.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:12160:2"/>
+            <pb facs="tcp:12160:2"/>
+            <head>To that Mighty Neptune of the Thames, great Master of the Ancient and Renowned Fra<g ref="char:EOLhyphen"/>ternity of Oares and Scullers, his euer Honored and worthi<g ref="char:EOLhyphen"/>ly admired friend, Master <hi>Iohn Taylor,</hi> the Water-Poet: <hi>M. P.</hi> wisheth all the Content that Land and Water can affoord him.</head>
+            <l>
+               <seg rend="decorInit">A</seg> Boate, a Boate, Iohn Taylor, come make haste,</l>
+            <l>Heere comes a Knight that faine would haue a cast:</l>
+            <l>He has nor wit nor Coyne, and thoult not care</l>
+            <l>For taking paines with such a paltry faire:</l>
+            <l>Yet prethee doo't this one time for my sake:</l>
+            <l>Tis not the worst paines that thou e'r didst take.</l>
+            <l>If thou obiect and thinke it is vnfit,</l>
+            <l>That thus I play the foole through lacke of Wit,</l>
+            <l>(For such a Booke to craue thy patronage,</l>
+            <l>Who art for VVit the mirrour of our Age)</l>
+            <pb facs="tcp:12160:3"/>
+            <l>In my most iust defence I thus reply,</l>
+            <l>VVhy mayest not thou lacke VVit as well as I?</l>
+            <l>I knowing that thou didst beget and name</l>
+            <l>Sir Gregory Non-sence (to thy long liu'd fame.</l>
+            <l>Thought it expedient and most requisite</l>
+            <l>That thou shouldst Patronize my lack of VVit.</l>
+            <l>Thou canst speake non-sence where the waters roare,</l>
+            <l>And so can I lacke VVit vpon the shoare:</l>
+            <l>Betweene vs two all Men may vnderstand</l>
+            <l>There's as much knauery by sea and land,</l>
+            <l>As all the world beside (so people say)</l>
+            <l>For oft the foole's the wisest in the play.</l>
+            <l>It may be thought that thou art no small foole,</l>
+            <l>Thou shew'dst great wit in writing great O toole.</l>
+            <l>VVell, to be briefe, J prethee entertaine</l>
+            <l>This simple Knight sprung from my simple braine,</l>
+            <l>And in like simple plaine true loue Ile be,</l>
+            <l>VVhile I can write, or speake, thy friend</l>
+            <closer>
+               <signed>M. P.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:12160:3"/>
+            <head>To no matter who, any body, or no body, wise or foolish Readers.</head>
+            <p>IT was my chance of late to be in <hi>Paris</hi> up<g ref="char:EOLhyphen"/>on the top of <hi>London-bridge,</hi> on the seven<g ref="char:EOLhyphen"/>ty seventh of November, which was Whitsun Eve, when Hiperion was taking a nap in his Meridian about mid-night; I sit<g ref="char:EOLhyphen"/>ting to shade my selfe from the scalding breath of Boreas, under the leaves of a hack<g ref="char:EOLhyphen"/>ney Turnep; there came by me (with tardy haste) a little low man, not above sixteen foot high, I spake not a word to him, but saluted him with humble sublimity; and he very cour<g ref="char:EOLhyphen"/>teously gave mee crosse answers; but at last with negligence and great heed he sate down by mee upon a crimson Sattin Bulrush, and listned close without any attention, while he and I betweene us three demonstratively dis<g ref="char:EOLhyphen"/>courst on that ignoted Knight Sir <hi>Leonard Lacke-wit;</hi> whose story as I heard it without eares, so Ile expresse it without pen, inke, or paper, wishing the Reader not to bee angry with his judgement, if hee can finde neither Wit nor Sense in it; for I tell him before<g ref="char:EOLhyphen"/>hand,
+<pb facs="tcp:12160:4"/> that if he lookes for any such matter, he is deceived; for if it were witty, it would be disproportionable to the Title, and my inten<g ref="char:EOLunhyphen"/>tion; therefore,
+<q>
+                  <l>Like it, or leave it, all's one to me,</l>
+                  <l>For I am and will be plaine-dealing</l>
+               </q>
+            </p>
+            <closer>
+               <signed>M. P.</signed>
+            </closer>
+         </div>
+         <div type="index">
+            <pb facs="tcp:12160:4"/>
+            <head>An Alphantasticall (Alphabeticall, I should have said) note of all those ignoted Authors, that are negligently men<g ref="char:EOLhyphen"/>tioned in this huge Volume.</head>
+            <list>
+               <item>ANdrew Caine of all trades.</item>
+               <item>Adam Bell.</item>
+               <item>Aristippus.</item>
+               <item>Abraham Basting-ladle.</item>
+               <item>Ace of Spades.</item>
+               <item>Banbury Cakes.</item>
+               <item>Beares Bag-piper.</item>
+               <item>Clim of the Clough.</item>
+               <item>Cocke VVat.</item>
+               <item>Cockle de Moy.</item>
+               <item>Cocke Robin.</item>
+               <item>Dapper Dicke.</item>
+               <item>Dagger Pye.</item>
+               <item>Divell and the Scold.</item>
+               <item>Doll the Dary maid.</item>
+               <item>Elinor Rumming.</item>
+               <item>Evan up Powell.</item>
+               <item>Eele pyes in lent.</item>
+               <item>Fryer Bacon.</item>
+               <item>Fryer Rush.</item>
+               <item>Fryer Tucke.</item>
+               <item>Fenner the Rimer.</item>
+               <pb facs="tcp:12160:5"/>
+               <item>Ging the Cobler.</item>
+               <item>George a loo.</item>
+               <item>Gregory Brandon.</item>
+               <item>Giles the Great.</item>
+               <item>Girgin the beane shi—ter.</item>
+               <item>Huffes Ale.</item>
+               <item>Hollands Leager.</item>
+               <item>Hungers sauce.</item>
+               <item>Ignatius Loyola.</item>
+               <item>Iacke a Dandy.</item>
+               <item>Jacke Pudding.</item>
+               <item>Iohn for the King.</item>
+               <item>King and the Tanner.</item>
+               <item>King and the Miller.</item>
+               <item>Knavery of all Trades.</item>
+               <item>Lusty Lawrence.</item>
+               <item>Lancashire Hornepipe.</item>
+               <item>Looke out Neighbours.</item>
+               <item>Madge Begger.</item>
+               <item>Mal. Simmes.</item>
+               <item>Money is an Asse.</item>
+               <item>Muld Sacke.</item>
+               <item>No body loves mee.</item>
+               <item>Nicke nine holes.</item>
+               <item>Nichole-a-Cod.</item>
+               <item>Ned Smith.</item>
+               <item>Newgate Colledge.</item>
+               <item>Onele the Great.</item>
+               <pb facs="tcp:12160:5"/>
+               <item>Oger the Dane.</item>
+               <item>Otemeale hoe.</item>
+               <item>Opportunity is a Bawd.</item>
+               <item>Post and pare.</item>
+               <item>Primero.</item>
+               <item>Primevistoe.</item>
+               <item>Pressing of VVatermen.</item>
+               <item>Pinder of VVakefield.</item>
+               <item>Peter Cranfield.</item>
+               <item>Quart-pot Law.</item>
+               <item>Queene Dido.</item>
+               <item>Quarrelling Dicke.</item>
+               <item>Quicke and nimble.</item>
+               <item>Robin Good-fellow.</item>
+               <item>Robin Hood.</item>
+               <item>Rowland and Oliver.</item>
+               <item>Racking of Rent.</item>
+               <item>Round about our cole fire.</item>
+               <item>Shoomaker is a Gentleman.</item>
+               <item>Sisly Bumtrinkets.</item>
+               <item>See and see not.</item>
+               <item>Service is no heritage.</item>
+               <item>Shan a Morgan.</item>
+               <item>Tom Long the Carryer.</item>
+               <item>Trundles Dragon.</item>
+               <item>Tib and Tom.</item>
+               <item>Three Testers for a shilling.</item>
+               <item>Ʋalentine and Orson.</item>
+               <item>Ʋaliant VVelshman.</item>
+               <pb facs="tcp:12160:6"/>
+               <item>Ʋineger and Mustard,</item>
+               <item>Ʋeale pyes.</item>
+               <item>William of Cloudesley.</item>
+               <item>Wa<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yler.</item>
+               <item>Wine, Ale and Beere.</item>
+               <item>Wily beguily.</item>
+               <item>Xantippe and Socrates.</item>
+               <item>Xenophons Medly.</item>
+               <item>Yorkeshire cloth.</item>
+               <item>Yeomen of Kent.</item>
+               <item>Yes I warrant you.</item>
+               <item>Yolkes of egges.</item>
+               <item>Zoroaster upon Magicke.</item>
+               <item>Zenobia and Tamberlaine.</item>
+            </list>
+            <p>
+               <hi>All these (as soone as any one of them) you may find very large &amp; sparingly toucht in this marvelous Historianly, for confirmation of the truth and true sense of this Story.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:12160:6"/>
+            <head>Some small faults (on purpose) escaped in the printing, lest the Reader should think that the Booke were guilty of being too much sense<g ref="char:EOLhyphen"/>able or sententious.</head>
+            <p>IN the 1099. page, line 205. for time read hard. In the 300. page, line 400 for mer<g ref="char:EOLhyphen"/>chant read a meere cheater: in the 65. page line 290. for powderd beefe read mustard: in the 103. page, line 88. for wives read few good: in the 709. page, line 11000. for mo<g ref="char:EOLhyphen"/>rice dancers read a Tabber and pipe: in the 608. page line 96. for a pot of Ale read a pen<g ref="char:EOLhyphen"/>ny: in the 150. page, line 900. for Poetry read poverty: in the 570. page, line 87. for an Owle read an Ivie tree, in the 48. page, line 80. for Marshalmen, red mercilesse men: in the 600. page, line 99. for a Tinker read a bud<g ref="char:EOLhyphen"/>get: in the 67. page, line 52. for a Cuckold read hornes.</p>
+            <p>These with a great many other faults the intellectual Reader may easily mend when he meets them in his dish.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:12160:7"/>
+            <epigraph>
+               <q>
+                  <l>You who will heare some newes worth admi<g ref="char:EOLhyphen"/>ration,</l>
+                  <l>List to Sir Leonard Lacke-wits Promulga<g ref="char:EOLhyphen"/>tion.</l>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the times of Yore, some 4. dayes since, in Christmas ho<g ref="char:EOLhyphen"/>ly dayes, when pease beganne to bloome, about the midst of November, when the signe was in Shrovetuesday; and the Moone in May-day, I met King <hi>Janus</hi> leading a band of Butter-flies, a<g ref="char:EOLhyphen"/>gainst the Tartars in Tower street, but with a blast from Bosomes Inne, the three Kings of Cullin were sent into Pater-noster Row to buy Parsnips, when by the intercession of Morpheus, Muld-Sacke was metamorphosed into an Ale-house. The Bull of <hi>Phalleris</hi> broke out of the parish Garden, and flew three Pigeons in the Poultry Counter. <hi>Alexis</hi> in<g ref="char:EOLhyphen"/>raged (with silence broke out) into a great fu<g ref="char:EOLhyphen"/>ry against Painters, while poore Tom of Bed<g ref="char:EOLhyphen"/>lem broke the head of <hi>Cerberus</hi> with the
+<pb facs="tcp:12160:7"/> Ore of <hi>Charon. Atlanta</hi> and <hi>Hipomones</hi> plaid at foot-ball in Tuttle fields: The petty-fog<g ref="char:EOLhyphen"/>gers of <hi>Ʋirginia</hi> set <hi>Hercules</hi> and <hi>Caucasus</hi> to<g ref="char:EOLhyphen"/>gether by the eares, about the drinking of fryed Hartichokes. The blue bores of Isling<g ref="char:EOLhyphen"/>ton Forrest leapt over Pancrasse Church to invade the Turkes Army in Bosworth field: these things (with diligent negligence) were told to the Emperour of <hi>Pyramedes,</hi> who sent foure dripping pannes to tell great <hi>Tamber<g ref="char:EOLhyphen"/>laine,</hi> that <hi>London</hi> had never a Cuckold in it. King <hi>Priam</hi> hearing this ioyfull newes, tooke two quarts of scalding Gun-powder, and dranke a health to the sixe Wind-mills in Gracious street. <hi>Aesculapius</hi> gave a glister to <hi>Aristippus,</hi> &amp; made him vomit as much hors<g ref="char:EOLhyphen"/>bread as served to feed <hi>Bucephalus</hi> eight hun<g ref="char:EOLunhyphen"/>dred yeeres and fifty foure moneths; the South wind seeing things to be so carryed at Totnam Court, sent out a warrant to catch the River of <hi>Severne</hi> in a mouse-trap; all the Shoomakers shops on <hi>Salisbury</hi> plaine were (without hands) removed to the toppe of <hi>Grantham</hi> steeple. <hi>Pandion</hi> Prince of <hi>Athens</hi> sent <hi>Grobendunke</hi> the Grasier to the signe of the three Pigeons in Cowcumber Alley, to en<g ref="char:EOLhyphen"/>quire for Raddle the Ratcatcher; while this hurly burly was in Crooked lane, there
+<pb facs="tcp:12160:8"/> came a Post riding upon a Mackerill, that brought newes from Sparta, that <hi>Ganimede</hi> and <hi>Iupiter</hi> were gone to Ierusalem to eate steakes at <hi>Nicholas</hi> Shambles. All the Sope<g ref="char:EOLhyphen"/>boylers in Sandrocola made petition to the King of <hi>Sclavonia,</hi> to set up shop upon Ma<g ref="char:EOLhyphen"/>dames Court hill. King <hi>Admetus</hi> of Thesa<g ref="char:EOLhyphen"/>ly sayling along the Coast of Shoreditch, met the Pinder of Wakefield at Saint <hi>Giles</hi> in the fields, betweene whom and the Carryer of Carthage was a cruell combate about the beating of Saint <hi>Thomas a Watering;</hi> the cry<g ref="char:EOLhyphen"/>er of Constantinople was sent to Long Acre, &amp; to cry a blue bitch that was lost at Shrews<g ref="char:EOLhyphen"/>bery; in the meane time foureteene ounces of Nutmegs, and tenne kilderkins of Ale, were controverting about the Pope and the Divell. The Turkish Sultan led an army in<g ref="char:EOLhyphen"/>to <hi>Plutarchs</hi> Morals; and being met at Co<g ref="char:EOLhyphen"/>ventry, by the Tinker of Turvy, hee was o<g ref="char:EOLhyphen"/>verthrowne at Canturbury, neere Harrow on the Hill, when suddenly the blind man of Hollowell turned starre-gazer, and made Al<g ref="char:EOLhyphen"/>manacks as true as any of the fraternity: then with 93. yards of ell broad packthread, the King of Egypt led the Earle of Acherow over the oeconomical Ocean into Parnaflus ferry, and with a boat made of Whale bones hee
+<pb facs="tcp:12160:8"/> sayled from Easter munday to Saint <hi>Al<g ref="char:EOLhyphen"/>banes;</hi> the Prince of <hi>Plebeans</hi> invited <hi>Heliogabalus</hi> to a supper of Sprats, on Whitsunday in the morning. <hi>Tom Tel<g ref="char:EOLhyphen"/>troth</hi> met with <hi>Aquarius</hi> at Stratford Langton, and broke his water-tankard against a snow-ball that lay on the top of Middleborough Castle; then with foure drammes of Hilarity, and eleven ounces of Lachrymae, the Duke of du<g ref="char:EOLhyphen"/>plicity made a simple compounded po<g ref="char:EOLhyphen"/>tion, to give to god Bacchus, for a mor<g ref="char:EOLhyphen"/>nings draught after supper; all the pudding-pyes in Fleet Lane leapt for ioy, when they heard this Nuncius, for they ignorantly knew that when Fryer <hi>Bacon</hi> came from Trumpe Alley, the Sophy of Persia should rue his voyage to Peticoat lane; thus in a calme com<g ref="char:EOLhyphen"/>motion the Peeres of Pye-corner ranne to Aleppo by candle light, and enfor<g ref="char:EOLhyphen"/>med the great master of Malta, what sport was at Sturbridge fayre. The fire-shovell and the tongs sate in con<g ref="char:EOLhyphen"/>sultation, and (with disparity) agreed
+<pb facs="tcp:12160:9"/> upon the point, the summe of their calculation was this, that sea-coales being so cheape, whether the fault was in the Merchant, or the Woodmonger; when presently two Humble-Bees di<g ref="char:EOLhyphen"/>vided the controversie, that seeing an Asse is a beast, why should not an Owle be a bird? After this the Ace of spades in a merry (malecontent) went over into Ireland to talke with the Emperor of Russia, about the battell of Cressy, <hi>Propertius</hi> some eight yeeres hence, put himselfe apprentice to Pegasus; whereof <hi>Prometheus</hi> hearing, came pre<g ref="char:EOLhyphen"/>sently to Duke <hi>Humphries</hi> (in Long lane) and vowed the death of all honest Brokers. <hi>Don Iohn</hi> of Austria married Pope <hi>Vrbans</hi> sonne at Alexandria on Candlemas day a weeke after Easter. <hi>Sisiphus</hi> threw a stone at <hi>Tantalus,</hi> who (in revenge) beat out his braines with a roasted apple. The Puritanes of Argeere having notice of Cheapsides honour, went dancing the Morris from Dover to Callis; while these things
+<pb facs="tcp:12160:9"/> were in action at Brinigham, <hi>Will Sum<g ref="char:EOLhyphen"/>mers</hi> frighted Cardinall <hi>Wolsey</hi> with an Oxe hide, and made him runne to Rome with a morter on his head. An invincible navy of Gnats sayled tho<g ref="char:EOLhyphen"/>row White Chappell, and landed at Rotterdam; which so amazed <hi>Eras<g ref="char:EOLhyphen"/>mus,</hi> that he turned over twelve leaves of his Booke: The Hungarians seeing this, sent post to Primrose hill to give notice to the Duke of Hellespont, what brave spiced Cakes were at Hogsdon; In the interim <hi>Rumny Marsh</hi> made prepa<g ref="char:EOLhyphen"/>ration for the entertainment of Smith<g ref="char:EOLhyphen"/>field Barres. <hi>Haniball</hi> the Romane, and <hi>Scipio</hi> the Carthagenian wrastled in Moore fields, while the Tripewives of Braineford sayled to London in Cockle shells; all the Spider-catchers of Dub<g ref="char:EOLhyphen"/>lin were sent to Waterford to kill Ad<g ref="char:EOLhyphen"/>ders. The Realto of Venice fell at ods with Saint <hi>Michaels</hi> at Coventry, a<g ref="char:EOLhyphen"/>bout paying tythes to Doctor <hi>Story,</hi> which caused such a friendly commoti<g ref="char:EOLhyphen"/>tion in Milford Haven, that the besie<g ref="char:EOLhyphen"/>gers
+<pb facs="tcp:12160:10"/> were afraid of the besieged. All the Bells in Woodstreet Counter rung merrily, when they heard that the King of Aethiopias Generall was slaine. <hi>Col<g ref="char:EOLhyphen"/>brand</hi> the Danish Dwarfe tooke ad<g ref="char:EOLhyphen"/>vantage of <hi>Tom Thumbs</hi> victory, and led an Army of Broome-staves to the toppe of Bansteed Downes, and there hee encountred with <hi>Pericles</hi> the Prince of Tyre upō Bromly Common, and overthrew him in Lincolns Inne fields. The Pierian Valleys (betweene Europe and Gravesend) were strewed over with Primroses, for ioy that the Queen of hearts was returned from Quinborough. The Beadle of Bew<g ref="char:EOLhyphen"/>morris tooke <hi>Sardinapalus</hi> in Bloomes<g ref="char:EOLhyphen"/>berry, and carryed him to the Bride<g ref="char:EOLhyphen"/>well in Barwicke, thinking hee had bin a common whore of Deptford. <hi>Mi<g ref="char:EOLhyphen"/>chael Ioseph</hi> the Blacke-Smith stole a hammer and a paire of pincers from <hi>Vulcan,</hi> for which old <hi>Mulciber</hi> brought him before the Collier of Croydon, who committed his carkasse to the
+<pb facs="tcp:12160:10"/> Mag-Pyes of <hi>Padington.</hi> The Burgo<g ref="char:EOLhyphen"/>masters of Battersea learned out of <hi>Chaucers</hi> Dictionary, that rowing far passes either riding or running. <hi>Heracli<g ref="char:EOLhyphen"/>tus</hi> laught to see Battle Bridge brought to Bilinsgate in a Boat: while newes was told to great <hi>Agamemnon,</hi> that <hi>Rocius</hi> should come to act, Wit, whi<g ref="char:EOLhyphen"/>ther wilt thou, at the Fortune. The Scholers in Finsberry iayle gave great thankes to the Tombe of King <hi>Pharo<g ref="char:EOLhyphen"/>mond</hi> for giving relaxation to the Cu<g ref="char:EOLhyphen"/>stards of Chelsea. Strange sights were seen at Cuckolds Haven neere <hi>Ludlow:</hi> three men had foure hands &amp; five legs. The Post-master of Hockly in the hole, rode upon a greene Grey-hound from Greenewich Castle to Gaunt, in lesse than foure daies and forty eight houres, to the great admiration of the Caliph of Babylon. Though a man and a horse be of different qualities, yet tis knowne by experience throughout all Saint <hi>Georges</hi> fields, that a whore can drinke as good wine as an honest woman, and
+<pb facs="tcp:12160:11"/> though a man were as chast as <hi>Leda,</hi> as honest as <hi>Meselina,</hi> and as constant as <hi>Clitemnestra,</hi> yet in the judgement of some, <hi>Lucretia, Penelope,</hi> and <hi>Peroe,</hi> shall bee counted the better men. A Stork is a strange bird, &amp; so is a Duck, but by the counsell of King <hi>Cleopatra</hi> and Queene <hi>Antonia,</hi> no man ought to pay money before he hath it; nay, I dare avouch it from the authority of <hi>Silvius</hi> past honesty, that fifteene Par<g ref="char:EOLhyphen"/>tridges are better than seventeen redde Herrings and eighteene sprats to boot: but he that eats Frogs in the fields, must not scorne Hens and Capons at home; for tis very probable, that if <hi>Amphitri<g ref="char:EOLhyphen"/>on</hi> should catch <hi>Iupiter</hi> in bed with his wife <hi>Alcumena,</hi> hee'd thinke hee is a Cuckold, though he be none: but did <hi>Anchises</hi> know that <hi>Niobe</hi> sold butter in Newgate Market; hee'd send to the Constable of Chester, and fetch her away, manger the Maior of Lutter<g ref="char:EOLhyphen"/>worth.</p>
+            <p>Old <hi>Hobson</hi> the Hermes of the Mu<g ref="char:EOLhyphen"/>ses,
+<pb facs="tcp:12160:11"/> is gone to drive <hi>Charles</hi> his Wayne: but you must imagine that Mackarels are not sold twelve a groat al the yeere long: Though a man were as wise as <hi>Pamus,</hi> and rich as <hi>Irus,</hi> and as hand<g ref="char:EOLhyphen"/>some as <hi>Aesop,</hi> yet a boy of two yeeres old may be as honest. In a moment of time, before a man could have gone from Barwicke to Bristow and backe againe, Fryer <hi>Francis</hi> had said Mat<g ref="char:EOLhyphen"/>tins, eaten his breakefast, kist his Lem<g ref="char:EOLhyphen"/>mon, and was gone as farre as Mid-summer, before old Pentecost was a<g ref="char:EOLhyphen"/>ware. Some thinking <hi>Herostrates</hi> was but a Ninihammer for burning <hi>Dianas</hi> Temple; but in my conceit <hi>Icarus</hi> and <hi>Dedalus</hi> might have scapt drowning if they had caught hold on Windsore Castle. <hi>Telyphus</hi> King of Mysya had certainely but bad counsellors: for the crosse daggers in Monks Kirbie, would haue cured him better than all the rust upon the speare of <hi>Achilles:</hi> But if the Tanner of Tamworth come next Munday to Leaden Hall, it is a trouble<g ref="char:EOLhyphen"/>some
+<pb facs="tcp:12160:12"/> day to the mighty Miller of New<g ref="char:EOLhyphen"/>port pannell. By the report of old wo<g ref="char:EOLhyphen"/>men and dogges, tis neede that makes the old wife trot. Thus with parsimo<g ref="char:EOLhyphen"/>nious and profuse Housekeepers, Sir <hi>Leonard Lackwit</hi> kept his C<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>stmas from Bartholmewtide, untill Saint <hi>Ief<g ref="char:EOLhyphen"/>feries</hi> Eve, and then an Asse was sent to him in Ambassage from the ignomini<g ref="char:EOLhyphen"/>all Emperour of Vtopia; by whom he was most fastidiously bid welcome, and with incomprehensible kindnesse cast into an invisible dungeō, from whence being brought to offend and abuse himselfe against his excusers, hee made a long and insipient Oration in Oxha<g ref="char:EOLhyphen"/>meter Verse, that for the quantity of their feet may out-trip <hi>Ladas</hi> the foot<g ref="char:EOLhyphen"/>man of Macedonian Alexander. But stay my Muse: we shal be betraied anon: therefore let us give place to Sir <hi>Leo<g ref="char:EOLhyphen"/>nard Lack-wit,</hi> and let him speake for himselfe. for should any sense be found in this Legend, all the sport were quite spoyled.</p>
+            <pb facs="tcp:12160:12"/>
+            <p>Therefore,</p>
+            <l>Silence my masters, while J do indever</l>
+            <l>Ʋnto you (in obscure termes) to deliver,</l>
+            <l>A Speech made to the Emperor of Vtopia,</l>
+            <l>Spoken in heathen Greeke, or Ethiopia.</l>
+            <l>Tis b<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter stored with rime than tis with reason</l>
+            <l>But if twere worse it now would come in season,</l>
+            <l>For tis against the Authors first intention,</l>
+            <l>If any wit be found in this invention</l>
+            <l>Stand further off, war shins, lest I shud wrōg you,</l>
+            <l>Whē these swift rimes come galoping among you.</l>
+            <p>To that most ignoble Icarion Idiot Mag-pye among men, and a Bull-begger among Birds and Beasts, <hi>Signior Anonimus Jgnoto,</hi> Emperour of Vtopia, great King of Fairy Land, Prince of the high and mighty Na<g ref="char:EOLhyphen"/>tion, called the Pigmies, Duke of Diomon<g ref="char:EOLhyphen"/>do, Earle of Clappardudgeon, Governor of Greenland, and al the inhabitable Ilands in that waste part of the Terrestrial Globe, Sir <hi>Leonard Lack-wit</hi> his Masterships most sublime vassall, greeteth in this manner.</p>
+            <l>O thou who art the onely Dominator</l>
+            <l>Ore all these spacious bounds of Erra Pater,</l>
+            <l>Thou that dost rule even from the wals of Bantā</l>
+            <pb facs="tcp:12160:13"/>
+            <l>Vnto the very confines of Bizantam,</l>
+            <l>To thee great King of Crickets, geese &amp; gan<g ref="char:EOLhyphen"/>ders</l>
+            <l>I that was once one of thy chiefe commanders,</l>
+            <l>Now to such honour by that meanes am risen,</l>
+            <l>That I have leave to famish in thy prison.</l>
+            <l>I that lived like a Lord among thy Laquies,</l>
+            <l>Now know not at what rate a pint of Sacke is:</l>
+            <l>I that with Beefe and Bacon fed my Carkis,</l>
+            <l>Now hardly know what kind of meat a Lark is,</l>
+            <l>I that thy Gardner was to dig and delve it,</l>
+            <l>Have never a sute but sattin, plush or velvet.</l>
+            <l>I that was wont to keep frogs from thy trenches</l>
+            <l>Am now enjoyn'd to keep but just ten wenches.</l>
+            <l>I that have heretofore danc't many a merry Iig,</l>
+            <l>Am now at last constrained to weare a periwig:</l>
+            <l>Yet know, great mongril, that J do not feare thee,</l>
+            <l>Nor would I have thee think that I do ieer thee.</l>
+            <l>If thou tell me that I want understanding,</l>
+            <l>To have the Ile of dogs at my commanding,</l>
+            <l>
+               <hi>I</hi> tell thee plainely <hi>I</hi> conceive great ielousie,</l>
+            <l>That thou thy selfe art but a foole aswell as <hi>I,</hi>
+            </l>
+            <l>Although my name be Lack-wit, yet it may be,</l>
+            <l>That <hi>I</hi> have wit enough to please a Lady,</l>
+            <l>Ide have thee know that <hi>I</hi> a man of note am,</l>
+            <l>My father once was Alderman of Gotam.</l>
+            <l>
+               <hi>I</hi> have observed by my neglective knowledge,</l>
+            <pb facs="tcp:12160:13"/>
+            <l>That al the wise men come not from the colledg,</l>
+            <l>And <hi>I</hi> have known a dunce (as was thy grandser</l>
+            <l>Demand a thing which Doctors cannot answer,</l>
+            <l>And tis apparant both to good and bad men,</l>
+            <l>That those who have no wit are fools or madmen</l>
+            <l>Yet <hi>I</hi> have seene a drunkard oft goe reeling,</l>
+            <l>Whē yet his head hath hardly toucht the seeling.</l>
+            <l>The Proverbe sayes, Plain dealing is a iewell,</l>
+            <l>And <hi>I</hi> in Lent am glad of Watergrewell.</l>
+            <l>Wert thou as mercifull as was Busiris,</l>
+            <l>Yet to have iustice of thee my desire is.</l>
+            <l>Nay hadst thou as much ease as hath Ixion,</l>
+            <l>Yet may a Mouse run safely by a Lion;</l>
+            <l>Nay more, wert thou as true and iust as Simon,</l>
+            <l>Yet may thy Table serve for men to dine on.</l>
+            <l>These things have oft tane up my contemplation</l>
+            <l>Me thinkes a Hangman's no good occupation:</l>
+            <l>And though my teeth within my bosom chatter</l>
+            <l>Be't known to thee, <hi>I</hi> came not here to flatter:</l>
+            <l>It glads me more to heare a Carman whistle,</l>
+            <l>Than to smell thee when thou dost fart &amp; fistle.</l>
+            <l>The fals of great mē through ambitious climing</l>
+            <l>To poore men oft occasion gives of riming,</l>
+            <l>Yet should blind Homer see what here <hi>I</hi> utter,</l>
+            <l>Tis ten to one but he'd against me mutter.</l>
+            <l>And Ile be sworne on Ciceroes Epistles,</l>
+            <pb facs="tcp:12160:14"/>
+            <l>One sheafe of wheat is worth a load of thistles.</l>
+            <l>There's many travellers find newes to brag on,</l>
+            <l>That are as true as Trundles Sussex Dragon:</l>
+            <l>But whē the wandring Iew coms to Westchester</l>
+            <l>He'l tell at Coventry what's done at Leister,</l>
+            <l>If <hi>I</hi> should say <hi>I</hi> was at Leipsitch battle,</l>
+            <l>J doubt some men would think 'twer idle prattle.</l>
+            <l>but thers rare wonders told in kentstreet garison</l>
+            <l>Your weekly newes to that maks no comparison.</l>
+            <l>
+               <hi>I</hi> oftentimes have heard my Grandam wonder,</l>
+            <l>Why sheep and wolves should live so far asunder</l>
+            <l>
+               <hi>I</hi> did resolve her doubt, yet <hi>I</hi> said nothing</l>
+            <l>Wolves be not known frō sheep clad in sheeps clothing.</l>
+            <l>Yet <hi>I</hi> confesse, tis more fit for King Priam,</l>
+            <l>To talke of these things than such fools as <hi>I</hi> am.</l>
+            <l>Wel though these lofty matters are past my sense</l>
+            <l>The proverbe saith, losers may speak by licence.</l>
+            <l>And now great Monopoly having vented</l>
+            <l>My empty vessell, <hi>I</hi> am well contented,</l>
+            <l>What saist thou to me? why didst thou convent me</l>
+            <l>To tel the news for which thou maist torment me</l>
+            <l>Tush <hi>I</hi> regard thy spight lesse than a token,</l>
+            <l>For thou canst take no hold of what I've spoken:</l>
+            <l>
+               <hi>I</hi> nonsence spoke on purpose to deceive thee,</l>
+            <l>Now farewell: as <hi>I</hi> found thee, so Ile leave thee.</l>
+            <p>This witlesse and eloquent Oration, being
+<pb facs="tcp:12160:14"/> uttered with loud taciturnity, the whole Court of All-draymen rose up every one with a most virulent aspersion giving repro<g ref="char:EOLhyphen"/>bation to the same. The mightlesse Empe<g ref="char:EOLhyphen"/>rour hearing Sir <hi>Leonard</hi> speake so ill in his owne offence, though before hee was egre<g ref="char:EOLhyphen"/>giously exasperated, and highly pleased with him, yet now he so overcame his infections, that love was changed into inveterate good will; while this cause was betraied at West<g ref="char:EOLhyphen"/>minster Hall, the Turkish Gallies landed at Totnam high Crosse, and encountring with the sumptuous Crosse at Abington, were o<g ref="char:EOLhyphen"/>verthrowne at Dunstable, and carryed pri<g ref="char:EOLhyphen"/>soners to the great bed in Ware. Newes was brought to the King of Morocco that <hi>Vlysses</hi> and <hi>Aiax</hi> were to play a set at Maw for the Armes of Patroclus. Thus with friendly combates and tragicall imbracings, the Soldan of Saint <hi>Omes</hi> at the Sarazens head in Carter lane, went to the signe of True the Taylor in Thred-needle street, where having dined about foure of the clocke in the mor<g ref="char:EOLhyphen"/>ning, they sayld from thence in a boat on dry land, to the top of Marlborrow Castle, &amp; ar<g ref="char:EOLhyphen"/>rived at Peckidilly hall in Amsterdam, on the
+<pb facs="tcp:12160:15"/> forty foure of December, twenty eigh<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> houres after midnight, <hi>Minos</hi> and <hi>Pasiphae</hi> were married in Queenes Street, and soone after they fell at variance about the Bull at Bishopsgate. Thus tis for great men to mar<g ref="char:EOLhyphen"/>ry their Chambermaids by the opinion of squint-eyed cur-dog. Marriage and hang<g ref="char:EOLhyphen"/>ing goes by destiny, hee that had lived three hundred yeeres, and seen never a merry day, I know no reason why antiquity and his owne experience may not teach him to see as farre into a milstone as a younger body. But as <hi>Elenor Rumming</hi> sayes, What will not people doe to get money for strong Ale? so there is no creature so able to master a man as a shrew. Though London and Yorke bee a great way asunder, yet man and wife may fall out and be friends againe. You would think it were a great wonder to see a mouse catch a cat, and truely so should I; but were the King of Clubs of my mind, all the world should bee goeurned by the foure elements. <hi>Diogenes</hi> was but an asse to looke for an ho<g ref="char:EOLhyphen"/>nest man in Athens, for if hee would but make a steppe to <hi>Westminster</hi> in the terme time he might finde a million, nor can it be
+<pb facs="tcp:12160:15"/> otherwise imagined, but that if Sir <hi>Ignis Fa<g ref="char:EOLhyphen"/>tuus</hi> had not been wiser than <hi>Phaeton,</hi> all the world had been burnt to Pyecrust; for the siege of Ierusalem was but as Schollers shut out their masters against Christmas, in com<g ref="char:EOLhyphen"/>parison of Hollands Leager: but of all trades that bee, Coblers and Botchers come most neere to the practice of goodnesse, for they are still of the mending hand; and of the two the Cobler deserves precedency, for hee mends the sole, and the Botcher only repaires the body. When egges were sold for twenty a penny, a man might have filled his belly for sixe pence: but now adayes, there is no lesse than your three penny Ordinary, that can give a mans stomacke satisfaction. Old <hi>Histeron et Proteron</hi> the Carter, went to Smithfield to fetch a load of Hay, to feed E<g ref="char:EOLhyphen"/>quiculus the huge and mighty horse of Bac<g ref="char:EOLhyphen"/>chus, but being met at Scandroon by (swift<g ref="char:EOLhyphen"/>footed) <hi>Saturne,</hi> his Cart was overthrowne upon Braineford Bridge, and his hay was carryed (away in a whirle wind) to the top of Bow steeple. <hi>Castor</hi> and <hi>Pollux</hi> ranne at tilt in Cuckold pound, with speares made of Cantharides, for the love of pudding Pye
+<pb facs="tcp:12160:16"/> Doll. Queene <hi>Hecuba</hi> kept an eight penn<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ordinary in Bethlem, and <hi>Hellen</hi> sold milke at Hackny. While <hi>Wat Tyler</hi> and King <hi>Guen<g ref="char:EOLhyphen"/>dolina</hi> went a fishing in a Leaden boat over the Ale Anticke Ocean into the forrest of Dean in Asia Minor, thus with contaminous and dulcid favours the inhabitants of Green land putrified and perfumed their unparalel<g ref="char:EOLhyphen"/>led palace for the entertainement of the greasie and most horrible Emperour of Vto<g ref="char:EOLhyphen"/>pia (before mentioned) a white Raven was sent on an errrand to Castle Angelo, to tell the Pope and his Cardinals, that Easter day happens on a Sunday. A mouse came swim<g ref="char:EOLhyphen"/>ming over the River of Rhine, with an Ele<g ref="char:EOLhyphen"/>phant on his backe, and told the Burgers of Basingstocke, that good Ale and Beere may be made of Barly; which they incredibly be<g ref="char:EOLhyphen"/>leeving, gave testimony to the Fryers mino<g ref="char:EOLhyphen"/>ritis at Vienna, that Lemmons are good sawce to mutton; then by the advertisment of Primrose hill, an agreement was made be<g ref="char:EOLhyphen"/>tweene Dove-houses and salt-Peeter men forever: The Articles being written with a Spiders feather. The blacke dogge of New<g ref="char:EOLhyphen"/>gate hath lately brought strange tidings out
+<pb facs="tcp:12160:16"/> of Tripiloe, among the rest, that <hi>Mahomet</hi> is preferred to be Chaplaine in ordinary to <hi>Pluto</hi> the Prince of Avernus. King <hi>Thomiris</hi> and Queene <hi>Cyrus</hi> very lovingly ranne at Barly breake, upon Horse-head downe neere Redding. The Blinde begger of Bednall Green, seeing the constant mutability of this permanent age, put on a paire of new shooes upon his shoulders, and a long staffe on his heeles, hee went with remisse and carefull heed to the Vice-Roy of Naples, and raised a hue and cry against the Hogges of Doctor <hi>Faustus,</hi> for rooting up the corne upon Ro<g ref="char:EOLhyphen"/>chester bridge. The Fishwives of Feversham came in rage to Billinsgate, and tooke away the Cucking stoole, and carrying it into Saint <hi>Christophers</hi> Iland, burnt it in the River of <hi>Nylus,</hi> neere Hartlerow. <hi>Palmirin</hi> of <hi>England</hi> wandring over Blacke Heath to finde out his mother <hi>Rowland</hi> (who dyed in Arme<g ref="char:EOLhyphen"/>nia the great) chanc't to finde a Phoenix nest wherein were foureteene old ones, and fif<g ref="char:EOLhyphen"/>teene young ones, with great leasure and much speed, hee brought them (as a pre<g ref="char:EOLhyphen"/>sent) to the King of Numidia, dwelling at Durham, who very currishly accepted them,
+<pb facs="tcp:12160:17"/> and to shew his gratitude, preferred him to bee the Pinder of Pancrasse. Tis a madde world when a Drunkard must breake his nose through want of a post to run against. Thus promiscously, very certaine and ambi<g ref="char:EOLhyphen"/>guously, the Scullers of Barnet taught <hi>Ae<g ref="char:EOLhyphen"/>neas Silvius,</hi> the way to goe to Dunstable by water, while Ware and Wades mill went to Hounslow Heath, and robbed a naked Indi<g ref="char:EOLhyphen"/>an in New England. An Army consisting of 600000. Frogs, tooke shipping at Fathering Castle, &amp; sayled to Constantinople, won the City, and tooke Gogmagog the Pigmy that was Governour, whom they brought into Marow-bone Park, and there throwing him over boord, drown'd him on Dunsmore Heath. Thus as Sir <hi>Leonard Lack-wit</hi> be<g ref="char:EOLhyphen"/>ganne his Legend with a band of Butter<g ref="char:EOLhyphen"/>flies, so by the shallow profundity of his in<g ref="char:EOLhyphen"/>scrutable and incapable destruction, he hath fitted his marvelous and most uncertaine true relation, to finish in the midst with an Army of Frogs. Now if any Readers shall question the truth of it (as questionlesse some will)</p>
+            <p>Let them survey the wonderfull aad in<g ref="char:EOLhyphen"/>credible
+<pb facs="tcp:12160:17"/> true Histories of <hi>Garagantua, Tom Thumbe, Bevis</hi> of Southampton, with a thousand more, and they shall finde that un<g ref="char:EOLhyphen"/>lesse there bee lyes in them, this must needs bee true. Yet the Authors who published those, thought they had wit enough: but I in my Title confesse lacke of wit; and there<g ref="char:EOLhyphen"/>fore I hope I am the more excusable; but howsoever tis not my purpose to ravish your beleefe, and to bee plaine, I hardly give credit to't my selfe.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:12160:18"/>
+            <head>To the criticall Readers.</head>
+            <l>YOu who with over-curious Survey looke,</l>
+            <l>To finde the smallest faults in any booke;</l>
+            <l>Now looke your hearts out, here, you know your wages</l>
+            <l>J have prevented you in all my pages,</l>
+            <l>You looke for nonsense where none can be found,</l>
+            <l>So seek for sense, where nonsence doth abound.</l>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:12160:18"/>
+            <head>Lastly to the truely intel<g ref="char:EOLhyphen"/>lectuall Readers.</head>
+            <l>FRiends, doe not think that alwaies <hi>I</hi> lack wit,</l>
+            <l>Though for this once <hi>I</hi> seem to publish it.</l>
+            <l>Know that more wit's required in seeming so,</l>
+            <l>Than of small wit to make a glorious show,</l>
+            <l>Let your acceptance my endeavours pitty,</l>
+            <l>And for your loves Ile strive to be more witty.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:12160:19"/>
+            <pb facs="tcp:12160:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
